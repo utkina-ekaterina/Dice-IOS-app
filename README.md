@@ -1,3 +1,12 @@
+# Udemy Swift course project, based on the https://github.com/appbrewery/Dicee-iOS13 
+
+
+
+
+
+
+
+
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Dicee
